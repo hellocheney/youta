@@ -1,2 +1,0 @@
-# youta
-personal test project
